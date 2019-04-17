@@ -1,1 +1,4 @@
 bin/docker-machine-driver-opennebula
+Gopkg.lock
+Gopkg.toml
+vendor
